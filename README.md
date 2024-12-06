@@ -1,6 +1,6 @@
 Anime Search and Recommendation System
 
-Project Overview
+Project Overview:
 The Anime Search and Recommendation System is a backend application built using Django REST Framework and the AniList GraphQL API. It allows users to search for anime by name or genre and fetch anime recommendations based on their preferences, such as favorite genres or watched anime. The system uses PostgreSQL to store user data and preferences and implements JWT-based authentication to secure access to user-specific endpoints.
 Features
 
