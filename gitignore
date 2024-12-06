@@ -1,0 +1,7 @@
+venvi/
+*.pyc
+__pycache__/
+.env
+.vscode/
+*.sqlite3
+*.log
